@@ -1,4 +1,4 @@
 TV2Play
 =======
 
-Plex Plugin fo Dansih National Broadcaster, TV 2 / Danmark's video-ondemand 
+Plex Plugin fo Danish National Broadcaster, TV 2 / Danmark's video-ondemand 
